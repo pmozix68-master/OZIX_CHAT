@@ -1,7 +1,7 @@
 {
-  "name": "𝐏ᴜʀᴠɪ 𝐂ʜᴀᴛ",
+  "name": "OZIX CHAT",
   "description": "A telegram bot",
-  "logo": "https://telegra.ph/file/c319f8cffa722e5c4bb85.jpg",
+  "logo": "https://files.catbox.moe/8cnwvx.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/TEAMPURVI/PURVI_CHAT",
+  "repository": "https://t.me/+KKYgpQNCwbgwODdl",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
